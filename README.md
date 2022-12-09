@@ -8,11 +8,11 @@ A marketing agency hired me to refactor an existing site to make it more accessi
 
 ## Process
 
-Changes made wher to swap out some of the div elements for semantic elements such as <header>, <nav>, <section>, etc.
+Changes made wher to swap out some of the div elements for semantic elements such as header, nav, section, etc.
 
 This result still looks the same, but under the hood is has been modified!
 
-![alt text](assets/images/challenge_starter_index.html_screenshot.png)
+![screenshot of website](challenge/starter/assets/images/challenge_starter_index.html_screenshot.png)
 
 ## License
 
