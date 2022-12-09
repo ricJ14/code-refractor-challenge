@@ -12,7 +12,7 @@ Changes made wher to swap out some of the div elements for semantic elements suc
 
 This result still looks the same, but under the hood is has been modified!
 
-![screenshot of website](challenge/starter/assets/images/challenge_starter_index.html_screenshot.png)
+![screenshot of website](assets/images/challenge_starter_index.html_screenshot.png)
 
 ## License
 
