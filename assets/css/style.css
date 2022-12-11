@@ -34,8 +34,8 @@ body {
     font-size: 20px;
 }
 
-.header nav {
-    display: inline-block;
+.header nav ul li {
+    display: inline;
 }
 
 a {
